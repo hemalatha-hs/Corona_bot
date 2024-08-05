@@ -1,10 +1,6 @@
 # Corona_bot
 
-The COVID-19 Chatbot provides users with information related to COVID-19, such as symptoms, prevention measures, and general knowledge about the virus.
-
-# COVID-19 Chatbot
-
-This project involves developing a chatbot designed to answer questions about COVID-19. It uses various technologies and libraries including TensorFlow, Keras, NLTK, and Python.
+This project involves developing a chatbot designed to answer questions about COVID-19. It provides users with information related to COVID-19, such as symptoms, prevention measures, and general knowledge about the virus.It uses various technologies and libraries including TensorFlow, Keras, NLTK, and Python.
 
 ## Key Components
 
