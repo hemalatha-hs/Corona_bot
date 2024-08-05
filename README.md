@@ -38,7 +38,5 @@ This project involves developing a chatbot designed to answer questions about CO
 
 When a user interacts with the chatbot, they can ask questions like "What are the symptoms of COVID-19?" or "How does COVID-19 spread?" The chatbot processes the input, predicts the relevant intent, and provides an accurate response based on the trained model.
 
-This project demonstrates the integration of natural language processing and machine learning to create a functional and informative chatbot.
-
 
 ![Screenshot (1041)](https://github.com/user-attachments/assets/e650ef3b-4e0e-480f-88a0-33726cd4382e)
